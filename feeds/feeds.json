@@ -1,1 +1,5 @@
-
+{
+    "otx": "https://otx.alienvault.com/api/v1/indicators/export",
+    "blocklist_de": "https://www.blocklist.de/lists/all.txt",
+    "abuseipdb": "https://api.abuseipdb.com/api/v2/check?ipAddress={ip}"
+}
